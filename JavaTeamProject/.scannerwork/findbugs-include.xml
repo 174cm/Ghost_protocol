@@ -1,0 +1,1 @@
+<?xml version="1.0" ?><FindBugsFilter><Match><Bug pattern="XSS_REQUEST_PARAMETER_TO_JSP_WRITER"></Bug></Match><Match><Bug pattern="JSP_XSLT"></Bug></Match><Match><Bug pattern="JSP_SPRING_EVAL"></Bug></Match><Match><Bug pattern="JSP_INCLUDE"></Bug></Match><Match><Bug pattern="XSS_JSP_PRINT"></Bug></Match><Match><Bug pattern="JSP_JSTL_OUT"></Bug></Match></FindBugsFilter>

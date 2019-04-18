@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="server.api_data.ParsingMaster" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/server/api_data/ParsingMaster.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="399" width="256" x="1749" y="-432"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="server.api_data.ApiFestivalInfo" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/server/api_data/ApiFestivalInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="176" width="193" x="1160" y="7"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="server.api_data.ApiFestivalDetail" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/server/api_data/ApiFestivalDetail.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="193" x="1393" y="7"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="server.api_data.ApiMusicalDetail" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/server/api_data/ApiMusicalDetail.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="176" width="193" x="1626" y="7"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="server.api_data.ApiminbakDetails" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/server/api_data/ApiminbakDetails.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="193" x="1859" y="7"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="server.api_data.ApiExhibitInfo" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/server/api_data/ApiExhibitInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="176" width="193" x="2092" y="7"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="server.api_data.ApiMusicDancingDetail" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/server/api_data/ApiMusicDancingDetail.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="176" width="225" x="2325" y="7"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="server.api_data.ApiminbakInfo" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/server/api_data/ApiminbakInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="193" x="2590" y="7"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="server.api_data.ApiMusicDancingInfo" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/server/api_data/ApiMusicDancingInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="176" width="224" x="2823" y="7"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="client.swing.T_board" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/client/swing/T_board.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="476" width="269" x="3427" y="668"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="client.swing.FestivalSecondFrame" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/client/swing/FestivalSecondFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="176" width="264" x="1573" y="152"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="server.BoardDTO" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/server/BoardDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="416" width="208" x="1877" y="152"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="client.swing.ExhibiThirdFrame" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/client/swing/ExhibiThirdFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="557" x="2125" y="152"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="client.swing.MinbakFourthFrame" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/client/swing/MinbakFourthFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="218" x="2722" y="152"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="client.swing.ExhibiSecondFrame" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/client/swing/ExhibiSecondFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="236" width="253" x="2980" y="152"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="client.swing.CalenderPublicFourthFrame" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/client/swing/CalenderPublicFourthFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="136" width="294" x="3910" y="152"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="client.ClientRunner" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/client/ClientRunner.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="152" x="4244" y="152"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="client.swing.DancingThirdFrame" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/client/swing/DancingThirdFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="572" x="4436" y="152"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="server.ServerRunner" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/server/ServerRunner.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="152" x="5048" y="152"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="client.swing.DancingFourthFrame" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/client/swing/DancingFourthFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="136" width="225" x="5240" y="152"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="client.swing.FestivalThirdFrame" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/client/swing/FestivalThirdFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="478" x="5505" y="152"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="client.swing.MinbakThirdFrame" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/client/swing/MinbakThirdFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="96" width="565" x="6023" y="152"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="client.swing.TWrite_board" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/client/swing/TWrite_board.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="476" width="268" x="3273" y="152"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="server.BoardDAO" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/server/BoardDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="356" width="289" x="3581" y="152"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="client.swing.FristFrame" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/client/swing/FristFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="156" width="187" x="6628" y="152"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="client.swing.MusicalThirdFrame" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/client/swing/MusicalThirdFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="567" x="6855" y="152"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="server.Server.Client" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/server/Server.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="176" width="243" x="167" y="362"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="server.Server" project="JavaTeamProject" 
+    file="/JavaTeamProject/src/server/Server.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="236" width="335" x="167" y="86"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="29">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="30">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="31" name="tboard"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="33">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="34">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="35">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="37">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="38">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="39">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="40" name="tboard"/>      
+      <multiplicity id="41" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="42">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="43" name="connections"/>      
+      <multiplicity id="44" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="45">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="27"/>  
+  </nesting>  
+  <generalization id="46">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

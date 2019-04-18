@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.1.6" sequence="0" timestamp="1544674322406" analysisTimestamp="1544674417733" release="">
+  <Project>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\ClientMain.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\ClientRunner.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\CalenderPublicFourthFrame.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\DancingFourthFrame.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\DancingSecondFrame.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\DancingSecondFrame$1.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\DancingSecondFrame$2.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\DancingThirdFrame.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\DancingThirdFrame$1.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\DancingThirdFrame$2.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\DancingThirdFrame$3.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\DancingThirdFrame$4.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\DancingThirdFrame$5.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\DancingThirdFrame$6.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\ExhibiSecondFrame.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\ExhibiSecondFrame$1.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\ExhibiSecondFrame$2.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\ExhibiThirdFrame.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\ExhibiThirdFrame$1.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\ExhibiThirdFrame$2.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\ExhibiThirdFrame$3.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\ExhibiThirdFrame$4.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\ExhibiThirdFrame$5.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\ExhibiThirdFrame$6.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\FestivalSecondFrame.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\FestivalSecondFrame$1.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\FestivalSecondFrame$2.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\FestivalThirdFrame.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\FestivalThirdFrame$1.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\FestivalThirdFrame$2.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\FestivalThirdFrame$3.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\FestivalThirdFrame$4.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\FristFrame.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\FristFrame$1.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\FristFrame$2.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\FristFrame$3.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\FristFrame$4.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\FristFrame$5.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\FristFrame$6.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\FristFrame$7.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MinbakFourthFrame.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MinbakSecondFrame.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MinbakSecondFrame$1.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MinbakSecondFrame$2.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MinbakThirdFrame.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MinbakThirdFrame$1.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MinbakThirdFrame$2.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MinbakThirdFrame$3.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MinbakThirdFrame$4.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MinbakThirdFrame$5.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MinbakThirdFrame$6.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MinbakThirdFrame$7.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MinbakThirdFrame$8.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MusicalSecondFrame.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MusicalSecondFrame$1.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MusicalSecondFrame$2.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MusicalThirdFrame.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MusicalThirdFrame$1.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MusicalThirdFrame$2.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MusicalThirdFrame$3.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MusicalThirdFrame$4.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MusicalThirdFrame$5.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\MusicalThirdFrame$6.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\TWrite_board.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\T_board.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\T_board$1.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\client\swing\T_board$2.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\server\BoardDAO.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\server\BoardDTO.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\server\Server.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\server\Server$Client.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\server\ServerRunner.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\server\api_data\ApiExhibitDetail.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\server\api_data\ApiExhibitInfo.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\server\api_data\ApiFestivalDetail.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\server\api_data\ApiFestivalInfo.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\server\api_data\ApiMusicDancingDetail.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\server\api_data\ApiMusicDancingInfo.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\server\api_data\ApiMusicalDetail.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\server\api_data\ApiMusicalInfo.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\server\api_data\ApiminbakDetails.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\server\api_data\ApiminbakInfo.class</Jar>
+    <Jar>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin\server\api_data\ParsingMaster.class</Jar>
+    <AuxClasspathEntry>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\bin</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\.scannerwork\findbugs\annotations.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\.scannerwork\findbugs\jsr305.jar</AuxClasspathEntry>
+    <WrkDir>c:\Users\omnia\eclipse-workspace\JavaTeamProject\JavaTeamProject\.scannerwork</WrkDir>
+  </Project>
+  <Errors errors="0" missingClasses="2">
+    <MissingClass>com.toedter.calendar.JDateChooser</MissingClass>
+    <MissingClass>run</MissingClass>
+  </Errors>
+  <FindBugsSummary timestamp="Thu, 13 Dec 2018 13:12:02 +0900" total_classes="83" referenced_classes="474" total_bugs="0" total_size="2550" num_packages="4" java_version="1.8.0_121" vm_version="25.121-b13" cpu_seconds="45.88" clock_seconds="10.60" peak_mbytes="576.46" alloc_mbytes="1785.00" gc_seconds="0.39">
+    <FileStats path="client/ClientMain.java" bugCount="0" size="51"/>
+    <FileStats path="client/ClientRunner.java" bugCount="0" size="8"/>
+    <FileStats path="client/swing/CalenderPublicFourthFrame.java" bugCount="0" size="106"/>
+    <FileStats path="client/swing/DancingFourthFrame.java" bugCount="0" size="90"/>
+    <FileStats path="client/swing/DancingSecondFrame.java" bugCount="0" size="83"/>
+    <FileStats path="client/swing/DancingThirdFrame.java" bugCount="0" size="116"/>
+    <FileStats path="client/swing/ExhibiSecondFrame.java" bugCount="0" size="83"/>
+    <FileStats path="client/swing/ExhibiThirdFrame.java" bugCount="0" size="124"/>
+    <FileStats path="client/swing/FestivalSecondFrame.java" bugCount="0" size="83"/>
+    <FileStats path="client/swing/FestivalThirdFrame.java" bugCount="0" size="88"/>
+    <FileStats path="client/swing/FristFrame.java" bugCount="0" size="115"/>
+    <FileStats path="client/swing/MinbakFourthFrame.java" bugCount="0" size="31"/>
+    <FileStats path="client/swing/MinbakSecondFrame.java" bugCount="0" size="73"/>
+    <FileStats path="client/swing/MinbakThirdFrame.java" bugCount="0" size="177"/>
+    <FileStats path="client/swing/MusicalSecondFrame.java" bugCount="0" size="84"/>
+    <FileStats path="client/swing/MusicalThirdFrame.java" bugCount="0" size="123"/>
+    <FileStats path="client/swing/TWrite_board.java" bugCount="0" size="198"/>
+    <FileStats path="client/swing/T_board.java" bugCount="0" size="93"/>
+    <FileStats path="server/BoardDAO.java" bugCount="0" size="196"/>
+    <FileStats path="server/BoardDTO.java" bugCount="0" size="36"/>
+    <FileStats path="server/Server.java" bugCount="0" size="150"/>
+    <FileStats path="server/ServerRunner.java" bugCount="0" size="7"/>
+    <FileStats path="server/api_data/ApiExhibitDetail.java" bugCount="0" size="40"/>
+    <FileStats path="server/api_data/ApiExhibitInfo.java" bugCount="0" size="34"/>
+    <FileStats path="server/api_data/ApiFestivalDetail.java" bugCount="0" size="41"/>
+    <FileStats path="server/api_data/ApiFestivalInfo.java" bugCount="0" size="34"/>
+    <FileStats path="server/api_data/ApiMusicDancingDetail.java" bugCount="0" size="40"/>
+    <FileStats path="server/api_data/ApiMusicDancingInfo.java" bugCount="0" size="34"/>
+    <FileStats path="server/api_data/ApiMusicalDetail.java" bugCount="0" size="40"/>
+    <FileStats path="server/api_data/ApiMusicalInfo.java" bugCount="0" size="34"/>
+    <FileStats path="server/api_data/ApiminbakDetails.java" bugCount="0" size="35"/>
+    <FileStats path="server/api_data/ApiminbakInfo.java" bugCount="0" size="35"/>
+    <FileStats path="server/api_data/ParsingMaster.java" bugCount="0" size="68"/>
+    <PackageStats package="client" total_bugs="0" total_types="2" total_size="59">
+      <ClassStats class="client.ClientMain" sourceFile="ClientMain.java" interface="false" size="51" bugs="0"/>
+      <ClassStats class="client.ClientRunner" sourceFile="ClientRunner.java" interface="false" size="8" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="client.swing" total_bugs="0" total_types="65" total_size="1667">
+      <ClassStats class="client.swing.CalenderPublicFourthFrame" sourceFile="CalenderPublicFourthFrame.java" interface="false" size="106" bugs="0"/>
+      <ClassStats class="client.swing.DancingFourthFrame" sourceFile="DancingFourthFrame.java" interface="false" size="90" bugs="0"/>
+      <ClassStats class="client.swing.DancingSecondFrame" sourceFile="DancingSecondFrame.java" interface="false" size="42" bugs="0"/>
+      <ClassStats class="client.swing.DancingSecondFrame$1" sourceFile="DancingSecondFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.DancingSecondFrame$2" sourceFile="DancingSecondFrame.java" interface="false" size="32" bugs="0"/>
+      <ClassStats class="client.swing.DancingThirdFrame" sourceFile="DancingThirdFrame.java" interface="false" size="68" bugs="0"/>
+      <ClassStats class="client.swing.DancingThirdFrame$1" sourceFile="DancingThirdFrame.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="client.swing.DancingThirdFrame$2" sourceFile="DancingThirdFrame.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="client.swing.DancingThirdFrame$3" sourceFile="DancingThirdFrame.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="client.swing.DancingThirdFrame$4" sourceFile="DancingThirdFrame.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="client.swing.DancingThirdFrame$5" sourceFile="DancingThirdFrame.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="client.swing.DancingThirdFrame$6" sourceFile="DancingThirdFrame.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="client.swing.ExhibiSecondFrame" sourceFile="ExhibiSecondFrame.java" interface="false" size="43" bugs="0"/>
+      <ClassStats class="client.swing.ExhibiSecondFrame$1" sourceFile="ExhibiSecondFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.ExhibiSecondFrame$2" sourceFile="ExhibiSecondFrame.java" interface="false" size="31" bugs="0"/>
+      <ClassStats class="client.swing.ExhibiThirdFrame" sourceFile="ExhibiThirdFrame.java" interface="false" size="70" bugs="0"/>
+      <ClassStats class="client.swing.ExhibiThirdFrame$1" sourceFile="ExhibiThirdFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.ExhibiThirdFrame$2" sourceFile="ExhibiThirdFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.ExhibiThirdFrame$3" sourceFile="ExhibiThirdFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.ExhibiThirdFrame$4" sourceFile="ExhibiThirdFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.ExhibiThirdFrame$5" sourceFile="ExhibiThirdFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.ExhibiThirdFrame$6" sourceFile="ExhibiThirdFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.FestivalSecondFrame" sourceFile="FestivalSecondFrame.java" interface="false" size="43" bugs="0"/>
+      <ClassStats class="client.swing.FestivalSecondFrame$1" sourceFile="FestivalSecondFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.FestivalSecondFrame$2" sourceFile="FestivalSecondFrame.java" interface="false" size="31" bugs="0"/>
+      <ClassStats class="client.swing.FestivalThirdFrame" sourceFile="FestivalThirdFrame.java" interface="false" size="52" bugs="0"/>
+      <ClassStats class="client.swing.FestivalThirdFrame$1" sourceFile="FestivalThirdFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.FestivalThirdFrame$2" sourceFile="FestivalThirdFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.FestivalThirdFrame$3" sourceFile="FestivalThirdFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.FestivalThirdFrame$4" sourceFile="FestivalThirdFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.FristFrame" sourceFile="FristFrame.java" interface="false" size="60" bugs="0"/>
+      <ClassStats class="client.swing.FristFrame$1" sourceFile="FristFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.FristFrame$2" sourceFile="FristFrame.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="client.swing.FristFrame$3" sourceFile="FristFrame.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="client.swing.FristFrame$4" sourceFile="FristFrame.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="client.swing.FristFrame$5" sourceFile="FristFrame.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="client.swing.FristFrame$6" sourceFile="FristFrame.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="client.swing.FristFrame$7" sourceFile="FristFrame.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="client.swing.MinbakFourthFrame" sourceFile="MinbakFourthFrame.java" interface="false" size="31" bugs="0"/>
+      <ClassStats class="client.swing.MinbakSecondFrame" sourceFile="MinbakSecondFrame.java" interface="false" size="37" bugs="0"/>
+      <ClassStats class="client.swing.MinbakSecondFrame$1" sourceFile="MinbakSecondFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.MinbakSecondFrame$2" sourceFile="MinbakSecondFrame.java" interface="false" size="27" bugs="0"/>
+      <ClassStats class="client.swing.MinbakThirdFrame" sourceFile="MinbakThirdFrame.java" interface="false" size="81" bugs="0"/>
+      <ClassStats class="client.swing.MinbakThirdFrame$1" sourceFile="MinbakThirdFrame.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="client.swing.MinbakThirdFrame$2" sourceFile="MinbakThirdFrame.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="client.swing.MinbakThirdFrame$3" sourceFile="MinbakThirdFrame.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="client.swing.MinbakThirdFrame$4" sourceFile="MinbakThirdFrame.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="client.swing.MinbakThirdFrame$5" sourceFile="MinbakThirdFrame.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="client.swing.MinbakThirdFrame$6" sourceFile="MinbakThirdFrame.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="client.swing.MinbakThirdFrame$7" sourceFile="MinbakThirdFrame.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="client.swing.MinbakThirdFrame$8" sourceFile="MinbakThirdFrame.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="client.swing.MusicalSecondFrame" sourceFile="MusicalSecondFrame.java" interface="false" size="44" bugs="0"/>
+      <ClassStats class="client.swing.MusicalSecondFrame$1" sourceFile="MusicalSecondFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.MusicalSecondFrame$2" sourceFile="MusicalSecondFrame.java" interface="false" size="31" bugs="0"/>
+      <ClassStats class="client.swing.MusicalThirdFrame" sourceFile="MusicalThirdFrame.java" interface="false" size="69" bugs="0"/>
+      <ClassStats class="client.swing.MusicalThirdFrame$1" sourceFile="MusicalThirdFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.MusicalThirdFrame$2" sourceFile="MusicalThirdFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.MusicalThirdFrame$3" sourceFile="MusicalThirdFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.MusicalThirdFrame$4" sourceFile="MusicalThirdFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.MusicalThirdFrame$5" sourceFile="MusicalThirdFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.MusicalThirdFrame$6" sourceFile="MusicalThirdFrame.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.TWrite_board" sourceFile="TWrite_board.java" interface="false" size="198" bugs="0"/>
+      <ClassStats class="client.swing.T_board" sourceFile="T_board.java" interface="false" size="78" bugs="0"/>
+      <ClassStats class="client.swing.T_board$1" sourceFile="T_board.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="client.swing.T_board$2" sourceFile="T_board.java" interface="false" size="6" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="server" total_bugs="0" total_types="5" total_size="389">
+      <ClassStats class="server.BoardDAO" sourceFile="BoardDAO.java" interface="false" size="196" bugs="0"/>
+      <ClassStats class="server.BoardDTO" sourceFile="BoardDTO.java" interface="false" size="36" bugs="0"/>
+      <ClassStats class="server.Server" sourceFile="Server.java" interface="false" size="59" bugs="0"/>
+      <ClassStats class="server.Server$Client" sourceFile="Server.java" interface="false" size="91" bugs="0"/>
+      <ClassStats class="server.ServerRunner" sourceFile="ServerRunner.java" interface="false" size="7" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="server.api_data" total_bugs="0" total_types="11" total_size="435">
+      <ClassStats class="server.api_data.ApiExhibitDetail" sourceFile="ApiExhibitDetail.java" interface="false" size="40" bugs="0"/>
+      <ClassStats class="server.api_data.ApiExhibitInfo" sourceFile="ApiExhibitInfo.java" interface="false" size="34" bugs="0"/>
+      <ClassStats class="server.api_data.ApiFestivalDetail" sourceFile="ApiFestivalDetail.java" interface="false" size="41" bugs="0"/>
+      <ClassStats class="server.api_data.ApiFestivalInfo" sourceFile="ApiFestivalInfo.java" interface="false" size="34" bugs="0"/>
+      <ClassStats class="server.api_data.ApiMusicDancingDetail" sourceFile="ApiMusicDancingDetail.java" interface="false" size="40" bugs="0"/>
+      <ClassStats class="server.api_data.ApiMusicDancingInfo" sourceFile="ApiMusicDancingInfo.java" interface="false" size="34" bugs="0"/>
+      <ClassStats class="server.api_data.ApiMusicalDetail" sourceFile="ApiMusicalDetail.java" interface="false" size="40" bugs="0"/>
+      <ClassStats class="server.api_data.ApiMusicalInfo" sourceFile="ApiMusicalInfo.java" interface="false" size="34" bugs="0"/>
+      <ClassStats class="server.api_data.ApiminbakDetails" sourceFile="ApiminbakDetails.java" interface="false" size="35" bugs="0"/>
+      <ClassStats class="server.api_data.ApiminbakInfo" sourceFile="ApiminbakInfo.java" interface="false" size="35" bugs="0"/>
+      <ClassStats class="server.api_data.ParsingMaster" sourceFile="ParsingMaster.java" interface="false" size="68" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="2297" invocations="1994" avgMicrosecondsPerInvocation="1151" maxMicrosecondsPerInvocation="8375" standardDeviationMicrosecondsPerInvocation="659"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="954" invocations="1990" avgMicrosecondsPerInvocation="479" maxMicrosecondsPerInvocation="273733" standardDeviationMicrosecondsPerInvocation="6194"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="464" invocations="474" avgMicrosecondsPerInvocation="979" maxMicrosecondsPerInvocation="53224" standardDeviationMicrosecondsPerInvocation="2977"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="414" invocations="474" avgMicrosecondsPerInvocation="875" maxMicrosecondsPerInvocation="15953" standardDeviationMicrosecondsPerInvocation="1741"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.taintanalysis.TaintDataflowEngine" totalMilliseconds="303" invocations="235" avgMicrosecondsPerInvocation="1292" maxMicrosecondsPerInvocation="38799" standardDeviationMicrosecondsPerInvocation="3481"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="269" invocations="1091" avgMicrosecondsPerInvocation="246" maxMicrosecondsPerInvocation="4063" standardDeviationMicrosecondsPerInvocation="383"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="240" invocations="235" avgMicrosecondsPerInvocation="1023" maxMicrosecondsPerInvocation="32626" standardDeviationMicrosecondsPerInvocation="2837"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="235" invocations="247" avgMicrosecondsPerInvocation="951" maxMicrosecondsPerInvocation="22553" standardDeviationMicrosecondsPerInvocation="2285"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="201" invocations="235" avgMicrosecondsPerInvocation="859" maxMicrosecondsPerInvocation="13372" standardDeviationMicrosecondsPerInvocation="1592"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="198" invocations="246" avgMicrosecondsPerInvocation="808" maxMicrosecondsPerInvocation="19580" standardDeviationMicrosecondsPerInvocation="1838"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="167" invocations="235" avgMicrosecondsPerInvocation="711" maxMicrosecondsPerInvocation="13593" standardDeviationMicrosecondsPerInvocation="1535"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="132" invocations="238" avgMicrosecondsPerInvocation="556" maxMicrosecondsPerInvocation="21605" standardDeviationMicrosecondsPerInvocation="1529"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="119" invocations="474" avgMicrosecondsPerInvocation="251" maxMicrosecondsPerInvocation="6546" standardDeviationMicrosecondsPerInvocation="558"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="105" invocations="200" avgMicrosecondsPerInvocation="528" maxMicrosecondsPerInvocation="5258" standardDeviationMicrosecondsPerInvocation="826"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="102" invocations="1942" avgMicrosecondsPerInvocation="52" maxMicrosecondsPerInvocation="2491" standardDeviationMicrosecondsPerInvocation="108"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="96" invocations="238" avgMicrosecondsPerInvocation="407" maxMicrosecondsPerInvocation="63103" standardDeviationMicrosecondsPerInvocation="4076"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="95" invocations="474" avgMicrosecondsPerInvocation="202" maxMicrosecondsPerInvocation="2082" standardDeviationMicrosecondsPerInvocation="304"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="92" invocations="618" avgMicrosecondsPerInvocation="150" maxMicrosecondsPerInvocation="21047" standardDeviationMicrosecondsPerInvocation="874"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="81" invocations="474" avgMicrosecondsPerInvocation="172" maxMicrosecondsPerInvocation="7883" standardDeviationMicrosecondsPerInvocation="492"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="69" invocations="474" avgMicrosecondsPerInvocation="147" maxMicrosecondsPerInvocation="3715" standardDeviationMicrosecondsPerInvocation="311"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="68" invocations="474" avgMicrosecondsPerInvocation="144" maxMicrosecondsPerInvocation="10517" standardDeviationMicrosecondsPerInvocation="537"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ExplicitSerialization" totalMilliseconds="66" invocations="474" avgMicrosecondsPerInvocation="140" maxMicrosecondsPerInvocation="17427" standardDeviationMicrosecondsPerInvocation="1015"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildStringPassthruGraph" totalMilliseconds="63" invocations="474" avgMicrosecondsPerInvocation="132" maxMicrosecondsPerInvocation="3846" standardDeviationMicrosecondsPerInvocation="332"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="57" invocations="235" avgMicrosecondsPerInvocation="245" maxMicrosecondsPerInvocation="5775" standardDeviationMicrosecondsPerInvocation="557"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.StreamResourceTracker" totalMilliseconds="51" invocations="59" avgMicrosecondsPerInvocation="865" maxMicrosecondsPerInvocation="2078" standardDeviationMicrosecondsPerInvocation="552"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindOpenStream" totalMilliseconds="47" invocations="83" avgMicrosecondsPerInvocation="567" maxMicrosecondsPerInvocation="9457" standardDeviationMicrosecondsPerInvocation="1372"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.LoadOfKnownNullValue" totalMilliseconds="46" invocations="83" avgMicrosecondsPerInvocation="561" maxMicrosecondsPerInvocation="3547" standardDeviationMicrosecondsPerInvocation="667"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ReflectiveClasses" totalMilliseconds="43" invocations="474" avgMicrosecondsPerInvocation="91" maxMicrosecondsPerInvocation="3931" standardDeviationMicrosecondsPerInvocation="247"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.EqualsOperandShouldHaveClassCompatibleWithThis" totalMilliseconds="41" invocations="474" avgMicrosecondsPerInvocation="87" maxMicrosecondsPerInvocation="2000" standardDeviationMicrosecondsPerInvocation="179"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.NonExceptionPostdominatorsAnalysisFactory" totalMilliseconds="40" invocations="1" avgMicrosecondsPerInvocation="40249" maxMicrosecondsPerInvocation="40249" standardDeviationMicrosecondsPerInvocation="0"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>

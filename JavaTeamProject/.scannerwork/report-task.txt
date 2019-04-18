@@ -1,0 +1,6 @@
+projectKey=java02.team8
+serverUrl=https://seps9.deu.ac.kr:9000
+serverVersion=6.7.5.38563
+dashboardUrl=https://seps9.deu.ac.kr:9000/dashboard/index/java02.team8
+ceTaskId=AWelxWJj2uL5R0_XBMDg
+ceTaskUrl=https://seps9.deu.ac.kr:9000/api/ce/task?id=AWelxWJj2uL5R0_XBMDg
